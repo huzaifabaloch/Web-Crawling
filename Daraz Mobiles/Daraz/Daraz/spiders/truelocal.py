@@ -5,7 +5,7 @@ import csv
 
 class AppSpider(scrapy.Spider):
     name = 'app'
-    with open("BarbersData.csv","a") as f:
+    with open("BarbersData.csv","w") as f:
         writer = csv.writer(f)
         writer.writerow(['Category','Name','Phone','Street Address','Locality','Region','Postal Code'])
  
@@ -16,16 +16,16 @@ class AppSpider(scrapy.Spider):
  
     def start_requests(self):
         for url in self.urls:
-            yield SplashRequest(url,callback=self.parse,args={'wait':'5'})
+            yield SplashRequest(url,callback=self.parse,args={'wait':'10.0'})
  
     def parse(self, response):
         links = response.xpath('.//*[@class="item-title"]/@href').extract()
         for link in links:
-            yield SplashRequest(link,callback=self.getdata,args={'wait':'5'})
+            yield SplashRequest(link,callback=self.getdata,args={'wait':'10.0'})
  
         nextlink = response.xpath('.//*[@rel="next"]/@href').extract_first()
         if nextlink:
-            yield SplashRequest(nextlink,callback=self.parse,args={'wait':'5'})
+            yield SplashRequest(nextlink,callback=self.parse,args={'wait':'10.0'})
  
     def getdata(self,response):
         category = response.xpath('.//div/@ng-click[contains(.,"searchByCategoryName")]/../text()').extract_first()

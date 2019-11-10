@@ -1,1 +1,275 @@
-Category,Name,Phone,Street Address,Locality,Region,Postal Code
+Category,Name,Phone,Street Address,Locality,Region,Postal Code
+
+Hairdressers,Amicus Hair and Beauty,(03) 5976 2740,"Amicus Hair & Beauty, 2 Albert St","Mornington,","VIC,", 3931
+
+Hairdressers,Elva's Hairdressing,(03) 5144 3404,108 Foster St,"Sale,","VIC,", 3850
+
+Beauty Salons,Ruby Hair Design,(03) 5022 2183,55A Pine Ave,"Mildura,","VIC,", 3500
+
+Hairdressers,Edward Scissorhands Barber Shop,(03) 9534 4546,"Edward Scissorhands Barber shop, 159 Chapel  St","St Kilda,","VIC,", 3182
+
+Hairdressers,Classique Hair Styling,(03) 9873 5487,"2/, 75 Mitcham  Rd","Donvale,","VIC,", 3111
+
+Building Designers,Dylan Barber Building Design,0400 311 166,,Newtown,"VIC,",3220
+
+Hairdressers,Serge Videl Hairdressers,(03) 9818 6641,643 Glenferrie Rd,"Hawthorn,","VIC,", 3122
+
+Hairdressers,Sadler Hair Melbourne,0410 955 306,153 HIGH  St,"Prahran,","VIC,", 3181
+
+Hairdressers,Gloss Hair Dezign,(03) 9534 7165,"Shop 9, 2 Albert St","St Kilda,","VIC,", 3182
+
+Hairdressers,Salon Eve,(03) 5298 1547,127 Shannon Ave,"Geelong West,","VIC,", 3218
+
+Hairdressers,Pol Hair Design,(03) 5941 1628,118 Main St,"Pakenham,","VIC,", 3810
+
+Farming,Barber,(03) 5276 1332, Cnr Robbs & Anakie Rd,"Lovely Banks,","VIC,", 3213
+
+Hairdressers,Studio 51 Hair Design,(03) 9842 2222,"Studio 51 Hair Design , 988 Doncaster Rd","Doncaster East,","VIC,", 3109
+
+Hairdressers,Liberty and Frank,(03) 9818 0844,146 Auburn Rd,"Hawthorn,","VIC,", 3122
+
+Hairdressers,Frank the Barber,(03) 9743 6979,1A Exford Rd,"Melton South,","VIC,", 3338
+
+Hairdressers,Zucci Hairdressing,(03) 9497 1038,151 Upper Heidelberg Rd,"Ivanhoe,","VIC,", 3079
+
+Hairdressers,The Barber Club Haircuts For Men,(03) 9600 2511,"Merchant Building cnr Bourke Street, 95 Merchant St","Docklands,","VIC,", 3008
+
+Hairdressers,Creations By Linda,(03) 9314 7970,28 Wembley Ave,"Yarraville,","VIC,", 3013
+
+Beauty Salons,"Snip 
+ Shape Hair Design",(03) 9846 3715,Shop 4/ 112 James Street,"Templestowe,","VIC,", 3106
+
+Day Spas,My Day Spa,(03) 9328 5581,37 Flemington  Rd,"North Melbourne,","VIC,", 3051
+
+Beauty Salons,Lash Hair n Beaute,(03) 5991 4029,"Springhill Shopping Centre, Shop 11, 1370 Thompsons Rd","Cranbourne,","VIC,", 3977
+
+Hairdressers,Maria's Unisex Hairstylists,(03) 5134 2264,222 Commercial Rd,"Morwell,","VIC,", 3840
+
+Hairdressers,Lux Hair,(03) 9470 2488,"Northland Shopping Centre, 2, 50 Murray Rd","Preston,","VIC,", 3072
+
+Hairdressers,Barber by the Bay,0431 134 403,"Barber by the Bay, Shop, 47 Civic Pde","Altona,","VIC,", 3018
+
+Hairdressers,Instyle Hair for Brides,0422 327 176,,Ferntree Gully,"VIC,",3156
+
+Hairdressers,Captain Clippers,0401 576 655,"1RC, 757 Bourke St","Docklands,","VIC,", 3008
+
+Hairdressers,Twiggys Mens Hair Stylist,(03) 9376 9788,198 Bellair St,"Kensington,","VIC,", 3031
+
+Beauty Salons,Rush Hair & Co,(03) 9842 2477, Tunstall Sq,"Doncaster East,","VIC,", 3109
+
+Counselling & Mental Health,Barber Barbara,,320 Main St,"Mornington,","VIC,", 3931
+
+Hairdressers,Edwards and Co Melbourne,(03) 9639 5188,"1, 22 Punch Lane","Melbourne,","VIC,", 3000
+
+Hairdressers,Mensroom Barbers Docklands,(03) 9031 6502,"Lifestyle Working, 6 Import Lane","Docklands,","VIC,", 3008
+
+Hairdressers,The Barber Shop,(03) 5821 2485,186 Corio St,"Shepparton,","VIC,", 3630
+
+Pet Groomers,The Bellarine Bow Wow Barber,0468 304 445,,Leopold,"VIC,",3224
+
+Hairdressers,Menz Only Barbers,(03) 9547 6543,"Menz Only Barbers, 110 Police Rd","Mulgrave,","VIC,", 3170
+
+Hairdressers,Le Neik Hair,(03) 5229 8300,95 Nicholas St,"Newtown,","VIC,", 3220
+
+Hairdressers,Luxe Concept Studio,(03) 5174 2777,"Studio 5, 19-23 Seymour St","Traralgon,","VIC,", 3844
+
+Hairdressers,Industry United,(03) 5221 6967,199 Pakington St,"Geelong West,","VIC,", 3218
+
+Hairdressers,Tantalizing Hair Xtensions,0450 353 811,163 Rowans Rd,"Moorabbin,","VIC,", 3189
+
+Hairdressers,The Cutting Room,(03) 5986 1941,911 Point Nepean Rd,"Rosebud,","VIC,", 3939
+
+Hairdressers,Hair Body & Soul,(03) 9824 4820,475 Burke Rd,"Camberwell,","VIC,", 3124
+
+Hairdressers,Maybem Barbers,(03) 9813 1941,718 Burke Rd,"Camberwell,","VIC,", 3124
+
+Hairdressers,The Barber Master,(03) 9722 9800,3-5 Hewish Rd,"Croydon,","VIC,", 3136
+
+Hairdressers,Magik Barber,(03) 8589 8752,340A Keilor Rd,"Niddrie,","VIC,", 3042
+
+Hairdressers,Barbers of Elsternwick,(03) 9523 5257,440 Glenhuntly Rd,"Elsternwick,","VIC,", 3185
+
+Hairdressers,Elwood Village Barber,(03) 9531 9646,60 Ormond Rd,"Elwood,","VIC,", 3184
+
+Hairdressers,Alphabarbers@Melbourne Central,(03) 9663 7274,211 Latrobe St,"Melbourne,","VIC,", 3000
+
+Hairdressers,Salon Inspired Hair & Beauty,(03) 5439 5807, Wellington Way,"Strathfieldsaye,","VIC,", 3551
+
+Hairdressers,Classy Cutting (Jo's),(03) 9874 8185,544 Mitcham Rd,"Mitcham,","VIC,", 3132
+
+Hairdressers,Barberesso,(03) 8394 3699,6 King St,"Prahran,","VIC,", 3181
+
+Hairdressers,Bossman Barbers,(03) 9879 1573,,Ringwood East,"VIC,",3135
+
+Hairdressers,True Barber Hampton,(03) 9598 8876,"True Barber Hampton, 457 Hampton St","Hampton,","VIC,", 3188
+
+Hairdressers,Rokk Man Barbers,(03) 9639 9133,"Shop 27, Collins Place, 45 Collins St","Melbourne,","VIC,", 3000
+
+Hairdressers,Mel Hair & Style,0401 173 635,,South Yarra,"VIC,",3141
+
+Hairdressers,Cam's Barbershop,(03) 9583 4777,15 Balcombe Rd,"Mentone,","VIC,", 3194
+
+Hairdressers,R&R's Barber Shop,,"World Trade Centre, 7B Ground Floor, 18-38 Siddeley St","Melbourne,","VIC,", 3000
+
+Hairdressers,Laneway Man,(03) 9827 7775,"Suite 3, 513-515 Toorak Rd","Toorak,","VIC,", 3142
+
+Hairdressers,The Mens Room Barber Shop Elsternwick,(03) 9077 3505,226 Glenhuntly Rd,"Elsternwick,","VIC,", 3185
+
+Hairdressers,The Industrial Men's Barbering & Ladies Hairdressing Salon,(03) 9306 5018,"3, 208 Waterloo Rd","Oak Park,","VIC,", 3046
+
+Hairdressers,Menz Only Barbers,(03) 9547 6543,"Menz Only, 110  Police Rd","Springvale,","VIC,", 3171
+
+Hairdressers,Perfect Image Designers Of Hair,(03) 9376 1177,133 Mount Alexander Rd,"Flemington,","VIC,", 3031
+
+Hairdressers,Cutting Edge The,(03) 9387 8200,123 Sydney Rd,"Brunswick,","VIC,", 3056
+
+Hairdressers,Respekt Your Hair,(03) 9510 8899,55 Chapel St,"Windsor,","VIC,", 3181
+
+Hairdressers,Harr,(03) 9596 3357,112B Martin St,"Brighton,","VIC,", 3186
+
+Hairdressers,Sana Hair And Spa,(03) 9792 1958,98 THOMAS St,"Dandenong,","VIC,", 3175
+
+Hairdressers,Anj Unisex Hair Salon,(03) 9870 2964,7 Old Lilydale Rd,"Ringwood East,","VIC,", 3135
+
+Hairdressers,Belmore Barbers,0411 693 484,326 Belmore Rd,"Balwyn,","VIC,", 3103
+
+Hairdressers,Dan Connoley Mens & Boys Hairstylist,0407 844 763,26 Ryrie St,"Geelong,","VIC,", 3220
+
+Kindergarten & Preschools,Goodstart Early Learning Hoppers Crossing - Barber Drive,(03) 9748 4700,100-102 Barber Drive,"Hoppers Crossing,","VIC,", 3029
+
+Hairdressers,Paul Mitchell,,610-616 Lorimer St,"Port Melbourne,","VIC,", 3207
+
+Hairdressers,Salon Mio Hair & Beauty Salon,(03) 9509 6355,714 High St,"Armadale,","VIC,", 3143
+
+Hairdressers,The Barber Club,(03) 9557 5746,375 Centre Rd,"Bentleigh,","VIC,", 3204
+
+Hairdressers,Mehmets Barber Shop,,142 Blair  St,"Dallas,","VIC,", 3047
+
+Beauty Salons,Lash Hair n Beaute,(03) 9772 1655,336 Station  St,"Chelsea,","VIC,", 3196
+
+Hairdressers,MACEDON BARBER SHOP,0403 167 695,19 Macedon  Rd,"Templestowe Lower,","VIC,", 3107
+
+Hairdressers,Blades Of Glory Barber Shop,0451 885 050,"Waverley Park Stadium , 6, 2 Stadium  Cct","Mulgrave,","VIC,", 3170
+
+Hairdressers,Barber Of Seville The,(03) 9428 2680,251 Church St,"Richmond,","VIC,", 3121
+
+Hairdressers,Teddys Barber Shop & Laser Clinic,(03) 9350 5258,"OZZiE.O BARBER SHOP CAFE, 229 229 Melville Road Rd","Pascoe Vale South,","VIC,", 3044
+
+Hairdressers,Anton Hair,(03) 5633 3098," ,  , 2 A McCrorey St","Trafalgar,","VIC,", 3824
+
+Hairdressers,Male Assassin Hair,(03) 9646 8989,116  Bridge  St,"Port Melbourne,","VIC,", 3207
+
+Hairdressers,Sweet Georgia Brown Barbers,(03) 9500 8725,193 Glenferrie Rd,"Malvern,","VIC,", 3144
+
+Hairdressers,Boston Barbers,(03) 9521 3000,253 Chapel St,"Prahran,","VIC,", 3181
+
+Beauty Salons,Enter Hair,(03) 5672 1153,173 Graham St,"Wonthaggi,","VIC,", 3995
+
+Hairdressers,Brava Hair,(03) 5668 1618,94B Ridgway undefined,"Mirboo North,","VIC,", 3871
+
+Hairdressers,Enzo & Mena Hair Design,(03) 9419 1170,213 Brunswick St,"Fitzroy,","VIC,", 3065
+
+Beauty Salons,Top End Barbering Co,(03) 9699 4008,321 Clarendon St,"South Melbourne,","VIC,", 3205
+
+Hairdressers,Mountain High Barber Shop,,"Belgrave Arcade, Shop 13 1647 Burwood Hwy","Belgrave,","VIC,", 3160
+
+Hairdressers,Sam Mondous Barber Shop,0412 081 307,"Shop G5B Burwood One Shopping Centre, 172-210 Burwood Hwy","Burwood East,","VIC,", 3151
+
+Hairdressers,Cooper and Co Barber Shop,(03) 9707 1338,76 High St,"Berwick,","VIC,", 3806
+
+Hairdressers,Oxbridge Master Barbers,(03) 9077 0378," ,       , 459 Little Collins  St","Melbourne ,","VIC,", 3000
+
+Hairdressers,Code Black Barbers,(03) 9690 2255,157 Victoria  Ave,"Albert Park,","VIC,", 3206
+
+Hairdressers,Ricks hairdressers,(03) 5655 1664,101 Commercial St,"Korumburra,","VIC,", 3950
+
+Plumbing,Barber Plumbing,0458 227 237,,Strathfieldsaye,"VIC,",3551
+
+Hairdressers,Reflections By Renae,(03) 5821 6443,22 Poplar Ave,"Shepparton,","VIC,", 3630
+
+Hairdressers,Bodyline For Hair And Beauty,(03) 5672 1668,22 White Rd,"Wonthaggi,","VIC,", 3995
+
+Building Designers,Barber Robin L Building Design Consultant,0417 109 816,30 Urquhart St,"Horsham,","VIC,", 3400
+
+Hairdressers,Alchemy,(03) 5174 7669,91 Hotham St,"Traralgon,","VIC,", 3844
+
+Hairdressers,Little Princess Hairdressing,(03) 9042 5907,259 Glen Huntly  Rd,"Elsternwick ,","VIC,", 3185
+
+Hairdressers,Mei Material Beauty,(03) 9489 8886,141 Station  St,"Fairfield,","VIC,", 3078
+
+Hairdressers,Mink Hair & Body,(03) 9349 1446,51 Royal Pde,"Parkville,","VIC,", 3052
+
+Hairdressers,Rays Cragieburn Barber,0450 494 872,43 Mallard Cct,"Craigieburn,","VIC,", 3064
+
+Hairdressers,Royal Crown Barbers,(03) 9819 6359,539 Glenferrie Rd,"Hawthorn,","VIC,", 3122
+
+Hairdressers,Nathans Hair Design,(03) 5744 2141,1/132 Belmore St,"Yarrawonga,","VIC,", 3730
+
+Hairdressers,Steeleys Mobile Barber,,,Ballarat,"VIC,",3350
+
+Hairdressers,Central Salon,(03) 5352 1404,121 Barkly St,"Ararat,","VIC,", 3377
+
+Hairdressers,Allure Hairdressing,(03) 5792 1362,"Shop, 6 Keith St","Seymour,","VIC,", 3660
+
+Hairdressers,Mikes Cuts Barber Shop,,215 San Mateo Ave,"Mildura,","VIC,", 3500
+
+Hairdressers,Empire Hair,(03) 9807 1641,,Ashwood,"VIC,",3147
+
+Hairdressers,Hawksburn Barbers,(03) 9510 8887,,Prahran,"VIC,",3181
+
+Hairdressers,Exodus Hair Design,(03) 5979 7077,27 High St,"Hastings,","VIC,", 3915
+
+Beauty Salons,Elle's Barbers,,25 South St,"Wodonga,","VIC,", 3690
+
+Hairdressers,Mehmet's Barber Shop,0406 795 127,142 Blair St,"Dallas,","VIC,", 3047
+
+Hairdressers,Belle's barber & hair,(03) 5480 1805,"Belle's barber beauty hair, 501a High  St","Echuca,","VIC,", 3564
+
+Hairdressers,Uneek Hair By Cherelle,(03) 9728 5252,914 Mt Dandenong Tourist  Rd,"Montrose,","VIC,", 3765
+
+Hairdressers,Bob's Barber Shop,(03) 8845 9106,"Shop 1033A, Eastland Shopping Centre, 171-175 Maroondah Hwy","Ringwood,","VIC,", 3134
+
+Hairdressers,George Stella Unisex,(03) 9546 3813,371B Springvale Rd,"Springvale,","VIC,", 3171
+
+Landscaping,The Lawn Barber,0412 503 577,,Aspendale Gardens,"VIC,",3195
+
+Hairdressers,Tip Top Barber Shop,(03) 8596 6745,459 Keilor Rd,"Niddrie,","VIC,", 3042
+
+Hairdressers,Roberta Ladies & Mens Hair Stylist,0439 740 022,"Ansvar House, 432 St Kilda Rd","Melbourne,","VIC,", 3000
+
+Hairdressers,The Scissor Guru,(03) 9529 2550,180 5 Commercial Rd,"Prahran,","VIC,", 3181
+
+Hairdressers,Amigo's Barber Shop,(03) 9544 3327,1342 Centre Rd,"Clayton South,","VIC,", 3169
+
+Hairdressers,Surrey Barbers,(03) 8060 7040,139 Union  Rd,"Surrey Hills,","VIC,", 3127
+
+Hairdressers,Lentz Barber,0403 612 559,110 Little Malop St,"Geelong,","VIC,", 3220
+
+Web Design,A Barber Design,0409 516 454,,Doreen,"VIC,",3754
+
+Hairdressers,Barber Town Men's Grooming,,"Pakenham Marketplace, Shop 27a,  John  St","Pakenham,","VIC,", 3810
+
+Hairdressers,Rockit Barber Shop,(03) 9629 1099,"McFerrsons Building, 546 Collins St","Melbourne,","VIC,", 3000
+
+Music Schools,Jason Barber,0416 079 530, Carrol St,"RESERVOIR NORTH,","VIC,", 3073
+
+Hairdressers,Bayside Barber,(03) 9580 0778,"Shop 2, 507 Main St","Mordialloc,","VIC,", 3195
+
+Hairdressers,Teddy's,,131 Mentone Pde,"Mentone,","VIC,", 3194
+
+Hairdressers,The Bearded Man,(03) 9510 0563,203 Chapel St,"Prahran,","VIC,", 3181
+
+Hairdressers,Renard's Barber Shop,0411 887 354,795 Rathdowne  St,"Carlton North,","VIC,", 3054
+
+Hairdressers,Barbers On Burke,(03) 9882 5559,889 Burke Rd,"Camberwell,","VIC,", 3124
+
+Hairdressers,Hair Meleo,(03) 9870 8080,Shop 1 44 Railway Avenue,"Ringwood East,","VIC,", 3135
+
+Hairdressers,Monsoon Hair,(03) 9408 7755,"Shop 3,  The Promenade undefined","South Morang,","VIC,", 3752
+
+Hairdressers,Barkly Barber,(03) 9509 3382,6 Barkly Ave,"Malvern,","VIC,", 3144
+
+Hairdressers,Istanbul Hair Style,(03) 9302 4008,"Meadow Heights Shopping Centre, 18, 55 Paringa Bvd","Meadow Heights,","VIC,", 3048
+
+Hairdressers,Beyond Barbers,(03) 9723 4227,530B Mount Dandenong Rd,"Kilsyth,","VIC,", 3137
+
