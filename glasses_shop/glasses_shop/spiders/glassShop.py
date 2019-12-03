@@ -25,6 +25,6 @@ class GlassshopSpider(scrapy.Spider):
                 'product_price': product_price
             }
 
-        next_page = response.xpath("(//a[@class='page-link'])[1]")
+        next_page = response.xpath("(//a[@class='page-link'])[1]/@href").get()
         if next_page:
             yield scrapy.Request(url=next_page, callback=self.parse)
